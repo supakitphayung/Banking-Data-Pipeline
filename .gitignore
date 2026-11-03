@@ -1,1 +1,6 @@
 .env
+
+# Local runtime data (never commit)
+docker/postgres/data/
+docker/minio/data/
+docker/logs/
